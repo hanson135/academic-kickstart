@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "Lero at NUI Galway, Ireland", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "henry.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "henry.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "henry.edison@nuigalway.ie"
