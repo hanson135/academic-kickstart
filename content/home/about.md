@@ -17,17 +17,17 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Science"
+  course = "Ph.D in Computer Science"
   institution = "Free University of Bozen-Bolzano, Italy"
   year = 2017
 
 [[education.courses]]
-  course = "MSc in Software Engineering"
+  course = "M.Sc in Software Engineering"
   institution = "Blekinge Institute of Technology, Sweden"
   year = 2010
 
 [[education.courses]]
-  course = "BEng in Informatics"
+  course = "B.Eng in Informatics"
   institution = "Bandung Institute of Technology, Indonesia"
   year = 2004
 
