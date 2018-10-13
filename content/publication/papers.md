@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Towards Innovation Measurement in the Software Industry"
 
 # Date first published.
-date = "2013-07-01"
+date = "2013-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Henry Edison", "Nauman bin Ali", "Richard Torkat"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,15 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "Journal of Systems and Software"
+#publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+#abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "DOI", url = "https://doi.org/10.1016/j.jss.2013.01.013."}]
 
 # Does the content use math formatting?
 math = true
@@ -61,10 +61,10 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption 😄"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. 
+Further details on your publication can be written here using *Markdown* for formatting.
