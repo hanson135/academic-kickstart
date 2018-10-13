@@ -64,7 +64,7 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption 😄"
-
++++
 +++
 title = "Lean Internal Startups for Software Product Innovation in Large Companies: Enablers and Inhibitors"
 
