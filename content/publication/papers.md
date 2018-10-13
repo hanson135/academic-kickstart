@@ -5,7 +5,7 @@ title = "Towards Innovation Measurement in the Software Industry"
 date = "2013-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Henry Edison", "Nauman bin Ali", "Richard Torkat"]
+authors = ["Henry Edison", "Nauman bin Ali", "Richard Torkar"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["Henry Edison", "Nauman bin Ali", "Richard Torkat"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Systems and Software"
+publication = "Journal of Systems and Software 85(5), 1390-1407"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
