@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "software startup",
+    "Lean startup and software startup",
     "software innovation",
     "inner source and agility"
   ]
