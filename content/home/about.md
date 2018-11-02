@@ -10,29 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Lean startup and software startup",
-    "software innovation",
-    "inner source and agility"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D in Computer Science"
-  institution = "Free University of Bozen-Bolzano, Italy"
-  year = 2017
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-  course = "M.Sc in Software Engineering"
-  institution = "Blekinge Institute of Technology, Sweden"
-  year = 2010
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
 
 [[education.courses]]
-  course = "B.Eng in Informatics"
-  institution = "Bandung Institute of Technology, Indonesia"
-  year = 2004
-
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
+ 
 +++
 
 # Biography
 
-Henry Edison is a postdoctoral researcher with Lero - the Irish Software Research Centre at NUI Galway, Ireland. His research interests include empirical software engineering in the area of software product innovation, open innovation, software  startup,  Lean  startup,  inner  source,  and agility. In 2018, he was awarded a prestigious Marie Skłodowska-Curie fellowships of two-year duration at Lero, Ireland.
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

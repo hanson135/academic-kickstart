@@ -17,6 +17,7 @@ weight = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
+#   4 = Stream
 list_format = 1
 
 # Filter by publication type.
@@ -30,3 +31,4 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
+
