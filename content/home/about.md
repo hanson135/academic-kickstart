@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Henry Edison is an ALECS Researcher Fellow with Lero – the Irish Software Research Centre at NUI Galway, Ireland. His research interests include empirical software engineering in the area of software product innovation, open innovation, software startup, Lean startup, inner source, and agility. In 2018, he is awarded a prestigious Marie Skłodowska-Curie research fellowship of two-year duration at Lero, Ireland.
+Henry Edison is an ALECS Research Fellow with Lero – the Irish Software Research Centre at NUI Galway, Ireland. His research interests include empirical software engineering in the area of software product innovation, open innovation, software startup, Lean startup, inner source, and agility. In 2018, he is awarded a prestigious Marie Skłodowska-Curie research fellowship of two-year duration at Lero, Ireland.
 
 Advanced Learning in Evolving Critical Systems (ALECS) is an innovative fellowship programme coordinated by Lero, the Irish Software Research Centre. The initiative is co-funded by the European Commission under the Marie Skłodowska-Curie programme and by Science Foundation Ireland, through Lero.
