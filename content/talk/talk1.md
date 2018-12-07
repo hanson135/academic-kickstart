@@ -1,11 +1,13 @@
 +++
-title = "An Investigation into Inner Source Software Development: Preliminary Findings from a Systematic Literature Review"
+title = "Flow, Agile, Inner Source and Innovation in Project and Portfolio Management (FLAPP)"
 
 # Date first published.
-date = "2018-09-01"
+date = "2013-05-01"
+
+summary = "Investigate the use of flow, agile and inner source to leverage innovation in project and portfolio management."
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Henry Edison", "Noel Carroll", "Kieran Conboy", "Lorraine Morgan"]
+#authors = ["Henry Edison", "Nauman bin Ali", "Richard Torkar"]
 
 # Publication type.
 # Legend:
@@ -16,10 +18,10 @@ authors = ["Henry Edison", "Noel Carroll", "Kieran Conboy", "Lorraine Morgan"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+#publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of 14th International Conference on Open Collaboration, Article no. 5"
+#publication = "Journal of Systems and Software, vol. 85, no. 5, pp. 1390-1407"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
@@ -27,42 +29,44 @@ publication = "Proceedings of 14th International Conference on Open Collaboratio
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+#selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["project1"]
+# projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+#url_pdf = ""
+#url_preprint = ""
+#url_code = ""
+#url_dataset = ""
+#url_project = ""
+#url_slides = ""
+#url_video = ""
+#url_poster = ""
+#url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "DOI", url = "https://doi.org/10.1145/3233391.3233529"}]
+# url_custom = [{name = "DOI", url = "https://doi.org/10.1016/j.jss.2013.01.013."}]
 
 # Does the content use math formatting?
-math = true
+#math = true
 
 # Does the content use source code highlighting?
-highlight = true
+#highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption 😄"
-
 +++
+
+
+Further details on your publication can be written here using *Markdown* for formatting.
