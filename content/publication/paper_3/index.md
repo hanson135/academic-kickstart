@@ -1,11 +1,11 @@
 +++
-title = "Towards Innovation Measurement in the Software Industry"
+title = "Lean Startups: Why Large Software Companies Should Care"
 
 # Date first published.
-date = "2013-05-01"
+date = "2015-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Henry Edison", "Nauman bin Ali", "Richard Torkar"]
+authors = ["Henry Edison", "Xiaofeng Wang", "Pekka Abrahamsson"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Henry Edison", "Nauman bin Ali", "Richard Torkar"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Systems and Software, vol. 85, no. 5, pp. 1390-1407"
-publication_short = "In *JSS*"
+publication = "Scientific Workshop Proceedings of 16th International Conference on Agile Software Development"
+#publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "DOI", url = "https://doi.org/10.1016/j.jss.2013.01.013."}]
+ url_custom = [{name = "DOI", url = "https://doi.org/10.1145/2764979.2764981"}]
 
 # Does the content use math formatting?
 math = true
@@ -64,7 +64,5 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption 😄"
+
 +++
-
-
-Further details on your publication can be written here using *Markdown* for formatting.
