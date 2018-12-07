@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "henry.edison@nuigalway.ie"
-  address = "J. E. Cairnes Building, Room 345 (Top Floor), School of Business and Economics, NUI Galway, Ireland"
+  address = "Room 345, J. E. Cairnes Building, School of Business and Economics, NUI Galway, Ireland"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+353 91 492848"
   skype = "henry.sitorus"
@@ -289,15 +289,20 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Talks"
+  url = "#talks_selected"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#projects"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
