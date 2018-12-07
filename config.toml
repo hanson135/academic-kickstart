@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Henry Edison"
+title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -46,29 +46,37 @@ enableGitInfo = false
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
 
 [params]
   # AUTHOR SETUP
 
   # Your details.
-  name = "Henry Edison"
-  role = "ALECS Research Fellow"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Lero - the Irish Software Research Centre at NUI Galway, Ireland", url = "" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "henry.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "henry.edison@nuigalway.ie"
-  address = "Room 345, J. E. Cairnes Building, School of Business and Economics, NUI Galway, Ireland"
-  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+353 91 492848"
-  skype = "henry.sitorus"
-  #telegram = ""
-  #keybase = ""  # Your keybase.io username.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = """
+  Monday 10:00 to 13:00\\
+  Wednesday 09:00 to 10:00\\
+  Otherwise email to book an appointment
+  """
+  phone = "888 888 88 88"
+  skype = "echo123"
+  telegram = ""
+  keybase = ""  # Your keybase.io username.
+
+  # Enter an optional link for booking appointments (e.g. calendly.com).
+  appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -99,7 +107,9 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "default"
+  # Enable users to switch between day and night mode?
+  day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -112,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "hanson135"
+  twitter = ""
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -212,6 +222,12 @@ enableGitInfo = false
     # List publications and talks related to the project?
     list_children = true
 
+    # Post list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    post_format = 2
+
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed
@@ -252,17 +268,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/hanson135"
+    link = "https://twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=XDoJWnMAAAAJ&hl=en&oi=ao"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/hanson135"
+    link = "https://github.com/gcushen"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -290,8 +306,8 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Posts"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
@@ -300,8 +316,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#custom"
+  name = "Tutorials"
+  url = "/tutorial/"
   weight = 5
 
 [[menu.main]]
