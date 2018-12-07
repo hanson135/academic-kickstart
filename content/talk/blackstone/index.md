@@ -17,7 +17,7 @@ abstract_short = "An example talk using Academic's Markdown slides feature."
 
 # Name of event and optional event URL.
 event = "Blackstone Launchpad Talk"
-event_url = "https://example.org"
+# event_url = "https://example.org"
 
 # Location of event.
 location = "Blackstone Launchpad, NUI Galway, Ireland"
@@ -31,7 +31,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
