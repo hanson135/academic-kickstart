@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+  "software startups and Lean startup",
+  "inner source and agility",
+  "software innovation and entrepreneurship"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D in Computer Science"
+  institution = "Free University of Bozen-Bolzano, Italy"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.Sc in Software Engineering"
+  institution = "Blekinge Institute of Technology, Sweden"
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "B.Eng in Informatics"
+  institution = "Bandung Institute of Technology, Indonesia"
+  year = 2004
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Henry Edison is an ALECS Research Fellow with Lero – the Irish Software Research Centre at NUI Galway, Ireland. His research interests include empirical software engineering in the area of software product innovation, open innovation, software startup, Lean startup, inner source, and agility. In 2018, he is awarded a prestigious ALECS research fellowship of two-year duration at Lero, Ireland.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Advanced Learning in Evolving Critical Systems (ALECS) is an innovative fellowship programme coordinated by Lero, the Irish Software Research Centre. The initiative is co-funded by the European Commission under the Marie Skłodowska-Curie programme and by Science Foundation Ireland, through Lero.
