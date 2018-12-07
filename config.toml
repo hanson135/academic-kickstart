@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Henry Edison"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,26 +52,24 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Henry Edison"
+  role = "ALECS Research Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Lero - the Irish Software Research Centre at NUI Galway, Ireland", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "henry.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "henry.edison@nuigalway.ie"
+  address = "J. E. Cairnes Building, Room 345, School of Business and Economics, NUI Galway, H91 TK33, Ireland"
   office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
+  Please email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "+353 91 492848"
+  skype = "henry.sitorus"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -107,7 +105,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "cupcake"
   # Enable users to switch between day and night mode?
   day_night = true
 
