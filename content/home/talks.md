@@ -9,6 +9,7 @@ subtitle = ""
 
 # Order that this section will appear in.
 weight = 30
+folder = "talks"
 
 # Number of talks to list.
 count = 10
@@ -22,4 +23,3 @@ list_format = 2
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-
