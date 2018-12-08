@@ -21,7 +21,6 @@ Program Committee (PC) Member or Associate Editor:
 * Associate Editor for Research Methodology and Philosophy Track, 27th European Conference on Information Systems (ECIS) 2019
 
 Peer-Reviewer
-Since 2015, I actively serve as peer-reviewer for the following leading journals and conferences:
 
 * European Journal on Information Systems (EJIS - 2016, 2017)
 * European Conference on Information Systems (ECIS - 2016, 2018)
