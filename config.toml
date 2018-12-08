@@ -65,11 +65,11 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "henry.edison@nuigalway.ie"
   address = "J. E. Cairnes Building, Room 345, School of Business and Economics, NUI Galway, H91 TK33, Ireland"
-  office_hours = """
-  Please email to book an appointment
-  """
+  #office_hours = """
+  #Please email to book an appointment
+  #"""
   phone = "+353 91 492848"
-  skype = "henry.sitorus"
+  #skype = "henry.sitorus"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
