@@ -15,14 +15,8 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I have extensive experience in various parts of module teaching, including lecturing, examiner, lab instructor at different university levels (e.g. associate, bachelor, and master). I have taught a total of 14 modules at four different universities since 2005 in Indonesia, Italy and Ireland. Modules in which I am involved in at NUI Galway:
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+* MS113 - Information Systems Technology (5 credits, 2 hr guest lecture, bachelor 1st year)
+* MS403 - IS Strategy and Planning (5 credits, 2 hr guest lecture, bachelor 4th year)
+* MS802 - Information Systems Strategy and Innovation (5 credits, master 1st year)
