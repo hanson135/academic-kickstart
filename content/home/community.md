@@ -15,10 +15,12 @@ weight = 70
 
 +++
 
-Program Committee (PC) Member or Associate Editor:
+Program Committee (PC) Member:
 
-* 1st International Workshop on Software Startups (SSU2015): State of the Art and State of the Practice (colocated with PROFES2015)
-* Associate Editor for Research Methodology and Philosophy Track, 27th European Conference on Information Systems (ECIS) 2019
+* 1st International Workshop on Software Startups (SSU2015), Bolzano (IT), 2015
+* 10th International Conference on Advanced Computer Science and Information Systems (ICACSIS), Yogyakarta (ID), 2018
+* 27th European Conference on Information Systems (ECIS), Stockholm (SE) 2019
+* 15th International Symposium on Open Collaboration, Skövde (SE), 2019
 
 Peer-Reviewer
 
@@ -29,4 +31,3 @@ Peer-Reviewer
 * ICE/IEEE International Technology Management Conference (2016)
 * International Conference on Agile Software Development (XP - 2017, 2018)
 * Americas Conference on Information Systems (AMCIS - 2018)
-* International Conference on Advanced Computer Science and Information Systems (2018)
