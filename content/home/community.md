@@ -25,9 +25,11 @@ Program Committee (PC) Member:
 Peer-Reviewer
 
 * European Journal on Information Systems (EJIS - 2016, 2017)
+* Information Technology and People (2019)
 * European Conference on Information Systems (ECIS - 2016, 2018)
 * International Conference on Information Systems (ICIS - 2015, 2016, 2018)
 * IEEE Agile Conference (2015)
 * ICE/IEEE International Technology Management Conference (2016)
 * International Conference on Agile Software Development (XP - 2017, 2018)
 * Americas Conference on Information Systems (AMCIS - 2018)
+* International Conference on Global Software Engineering (ICGSE - 2019)
