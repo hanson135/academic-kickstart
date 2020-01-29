@@ -10,7 +10,7 @@ summary = "Investigate how corporations can innovation like startups."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["contemporary methods", "large-scale", "transformation"]
+tags = ["Lean startup", "corporations", "innovation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
