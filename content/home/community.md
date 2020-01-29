@@ -17,17 +17,26 @@ weight = 70
 
 Program Committee (PC) Member:
 
-* 1st International Workshop on Software Startups (SSU2015), Bolzano (IT), 2015
-* 10th International Conference on Advanced Computer Science and Information Systems (ICACSIS), Yogyakarta (ID), 2018
-* 27th European Conference on Information Systems (ECIS), Stockholm (SE) 2019
+* 2nd International Workshop on Agile Transformation, XP, Copenhagen, 2020
 * 15th International Symposium on Open Collaboration, Skövde (SE), 2019
+* 27th European Conference on Information Systems (ECIS), Stockholm (SE) 2019
+* 10th International Conference on Advanced Computer Science and Information Systems (ICACSIS), Yogyakarta (ID), 2018-2019
+* 1st International Workshop on Software Startups (SSU2015), Bolzano (IT), 2015
 
-Peer-Reviewer
 
-* European Journal on Information Systems (EJIS - 2016, 2017)
+Journals
+
+* Journal of Systems and Software (2020)
+* Technovation (2019)
+* Communications of the Association for Information Systems (2020)
+* European Journal on Information Systems (EJIS - 2016, 2017, 2019)
 * Information Technology and People (2019)
-* European Conference on Information Systems (ECIS - 2016, 2018)
-* International Conference on Information Systems (ICIS - 2015, 2016, 2018)
+* Journal of Decision Systems (2019)
+* Journal of Software - Practice and Experience (2018)
+
+Conferences
+* European Conference on Information Systems (ECIS - 2016, 2018, 2020)
+* International Conference on Information Systems (ICIS - 2015, 2016, 2018, 2019)
 * IEEE Agile Conference (2015)
 * ICE/IEEE International Technology Management Conference (2016)
 * International Conference on Agile Software Development (XP - 2017, 2018)
