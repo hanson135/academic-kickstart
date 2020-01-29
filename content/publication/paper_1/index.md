@@ -2,7 +2,7 @@
 title = "Inner Source Software Development: Current Thinking and an Agenda for Future Research"
 
 # Date first published.
-date = "2018-01-01"
+date = "2020-01-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Henry Edison", "Noel Carroll", "Lorraine Morgan", "Kieran Conboy"]
