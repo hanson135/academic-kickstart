@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-Henry Edison is a Marie Curie Fellow with Lero – the Irish Software Research Centre at NUI Galway, Ireland. His research examines software processes and methods used to develop software and how to make it more efficient. Specifically, his research looks at current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations.
+Henry Edison is a Marie Curie Fellow with Lero – the Science Foundation Ireland Research Centre for Software at NUI Galway, Ireland. His research examines software processes and methods used to develop software and how to make it more efficient. Specifically, his research looks at current and future practices and trends of software development processes, and tailor them to suit different contexts, from startups and new emerging to large and established organisations.
 
 He has experience of teaching and supervising undergraduate and postgraduate students. He teaches various modules in software engineering and information systems, e.g. empirical software measurement, information systems strategy and innovation, systems development and project management. In addition to research and teaching experience, Henry has more than four years industry experience as software engineer. He involved in various software development projects in different domain, e.g. banking, aviation, etc.
 
