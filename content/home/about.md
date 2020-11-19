@@ -11,8 +11,7 @@ weight = 5
 [interests]
   interests = [
   "software startups and Lean startup",
-  "inner source and agility",
-  "software innovation and entrepreneurship"
+  "inner source and agility"
   ]
 
 # List your qualifications (such as academic degrees).
