@@ -21,7 +21,7 @@ Program Committee (PC) Member:
 * 2nd International Workshop on Agile Transformation, XP, Copenhagen (2020)
 * International Symposium on Open Collaboration (2019 - 2020)
 * 27th European Conference on Information Systems, Stockholm, Sweden (2019)
-* International Conference on Advanced Computer Science and Information Systems, Yogyakarta, Indonesia, (2018 s- 2019)
+* International Conference on Advanced Computer Science and Information Systems, Yogyakarta, Indonesia, (2018 - 2019)
 * 1st International Workshop on Software Startups, Bolzano, Italy (2015)
 
 
