@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["flapp"]
+#projects = ["flapp"]
 
 # Links (optional).
 url_pdf = "https://doi.org/10.1109/TSE.2020.3042610}"
